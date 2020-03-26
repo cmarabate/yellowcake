@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-slug: test slug
+slug: test-slug
 title: This is a test info page
 featuredImage: 'https://ucarecdn.com/e92b8f7f-147f-4787-9805-f39bc669f81e/'
 meta:
